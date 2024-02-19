@@ -6,8 +6,8 @@ The Sim4IA workshop will be co-located with the 47th International ACM SIGIR Con
 
 ## Dates
 
-- Tentative workshop paper submission: April 25, 2024
-- Tentative workshop paper acceptance notification: May 23, 2024
+- Tentative extended abstract submission: April 25, 2024
+- Tentative extended abstract acceptance notification: May 23, 2024
 - Workshop day: July 18, 2024
 
 ## Format and Structure
@@ -19,7 +19,7 @@ Therefore, two keynotes, a panel discussion with selected participants, lightnin
 To enable interaction with a broader set of participants, we offer a limited hybrid participation in addition to onsite attendance via Zoom.
 
 - **Welcome.** We welcome the onsite and online participants and set the stage for a day of interaction.
-- **Leynotes.** We intend to have two keynotes representing viewpoints from industry and academia.
+- **Keynotes.** We intend to have two keynotes representing viewpoints from industry and academia.
 - **Lightning talks.** We allocate short slots (3-5 minute talks) for accepted opinion pieces and encore talks from a selection of different viewpoints for onsite presentation. 
 - **Panel discussion.** We will moderate a panel with invited panelists from a diverse set of backgrounds championing different subfields and views.
 
