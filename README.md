@@ -1,6 +1,14 @@
+# SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA@SIGIR 2024)
+
+## About
+
 Simulations in various forms have been used to evaluate information access systems, like search engines, recommender systems, or conversational agents. In the form of the Cranfield paradigm, a simulation setup is well-known in the IR community, but user simulations have recently gained interest. While user simulations help to reduce the complexity of evaluation experiments and help with reproducibility, they can also contribute to a better understanding of users. Building on recent developments in methods and toolkits, the Sim4IA workshop aims to bring together researchers and practitioners to form an interactive and engaging forum for discussions on the future perspectives of the field. An additional aim is to plan an upcoming TREC/CLEF campaign.
 
-The Sim4IA workshop will be co-located with the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval that will be held from 14-18 July, 2024 in Washington D.C., USA.
+The Sim4IA workshop will be co-located with the [47th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir-2024.github.io/) that will be held from 14-18 July, 2024 in Washington D.C., USA.
+
+## Call for Participation
+
+
 
 ## Dates
 
@@ -8,7 +16,7 @@ The Sim4IA workshop will be co-located with the 47th International ACM SIGIR Con
 - Tentative extended abstract acceptance notification: May 23, 2024
 - Workshop day: July 18, 2024
 
-## Format and Structure
+## Schedule
 
 We anticipate a **highly interactive** and **engaging**, **full-day** workshop to foster collaborations and bring the community together. 
 We are keen to hear different views and opinions on the current and future directions for simulations in information access systems. 
