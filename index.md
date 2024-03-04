@@ -1,5 +1,5 @@
 ---
-title: Simulation for Information Access
+title: SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA)
 cover-img: "/img/cover.jpeg"
 ---
 
