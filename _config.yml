@@ -5,15 +5,14 @@ title: SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA)
 
 navbar-links:
   About: "#about"
-  Structure: "#structure"
   Call for Participation: 
     - Topics of Interest: "#topics-of-interest"
-    - Submission Guidelines: "#submission-guidelines"
+    - Submission Details: "#submission-details"
   Dates: "#dates"
   Organizers: "#organizers"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Exclude these files from production site
 exclude:
