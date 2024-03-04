@@ -11,19 +11,27 @@ This workshop aims to bring together experts and enthusiasts from academia and i
 
 We anticipate a **highly interactive** and **engaging**, **full-day** workshop to foster collaborations and bring the community together. 
 We are keen to hear different views and opinions on the current and future directions for simulations in information access systems. 
-Therefore, two keynotes, a panel discussion with selected participants, lightning talks, and guided breakout sessions are planned.
-
-To enable interaction with a broader set of participants, we offer a limited hybrid participation in addition to onsite attendance via Zoom.
+Therefore, we are planning to offer two keynotes, a panel discussion with selected participants, lightning talks, and guided breakout sessions:
 
 - **Keynotes.** We intend to have two keynotes representing viewpoints from industry and academia.
 - **Lightning talks.** We allocate short slots (3-5 minute talks) for accepted opinion pieces and encore talks from a selection of different viewpoints for onsite presentation. 
 - **Panel discussion.** We will moderate a panel with invited panelists from a diverse set of backgrounds championing different subfields and views.
+- **Breakout group discussions.** The core of this workshop is to initiate a discussion among the participants. We will guide the breakout discussions.
 
-### Keynote Speakers
-
-We are delighted to announce that the workshop will feature distinguished keynote speakers who are experts in the field of simulating user behavior for information access systems. (TBA)
+To enable interaction with a broader set of participants, we offer limited hybrid participation in addition to onsite attendance via Zoom.
 
 ### Tentative Schedule
+
+| Time         | Agenda                                       |
+|--------------|----------------------------------------------|
+| 9:00-9:30   | Welcome                                      |
+| 9:30-10:00  | Keynote 1                                    |
+| 10:00-10:30 | Lightning talks                              |
+| 11:00-12:00 | Panel discussion                             |
+| 12:00-12:30 | Lightning talks                              |
+| 13:30-14:00 | Keynote 2                                    |
+| 14:00-15:30 | Breakout group discussions                   |
+| 16:00-17:00 | Reports of the group discussions and closing |
 
 ## Call for Participation
 
@@ -60,27 +68,13 @@ Validation of user simulators
 
 For a lightning talk, an extended abstract of up to two pages (incl. references, ACM double column) should be submitted, which will be editorially reviewed. Presented talks will be featured in a SIGIR Forum publication for which presenters will be invited as co-authors.
 
-The review process is single-blind. Submissions should be submitted electronically via EasyChair: https://easychair.org/conferences/?conf=sim4ia-sigir2024  
+The review process is single-blind. Submissions should be submitted electronically via EasyChair: (https://easychair.org/conferences/?conf=sim4ia-sigir2024)
 
 ## Dates
 
 - Extended abstract submission: May 9, 2024
 - Extended abstract acceptance notification: May 23, 2024
 - Workshop day: July 18, 2024
-
-
-### Tentative Schedule
-
-| Time         | Agenda                                       |
-|--------------|----------------------------------------------|
-| 9:00-9:30   | Welcome                                      |
-| 9:30-10:00  | Keynote 1                                    |
-| 10:00-10:30 | Lightning talks                              |
-| 11:00-12:00 | Panel discussion                             |
-| 12:00-12:30 | Lightning talks                              |
-| 13:30-14:00 | Keynote 2                                    |
-| 14:00-15:30 | Breakout group discussions                   |
-| 16:00-17:00 | Reports of the group discussions and closing |
 
 ## Organizers
 
