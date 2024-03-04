@@ -6,17 +6,8 @@ Simulations in various forms have been used to evaluate information access syste
 
 The Sim4IA workshop will be co-located with the [47th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir-2024.github.io/) that will be held from 14-18 July, 2024 in Washington D.C., USA.
 
-## Call for Participation
-
-
-
-## Dates
-
-- Tentative extended abstract submission: April 25, 2024
-- Tentative extended abstract acceptance notification: May 23, 2024
-- Workshop day: July 18, 2024
-
-## Schedule
+### Objective
+This workshop aims to bring together experts and enthusiasts from academia and industry to delve into the challenges, methodologies, and applications of simulating user interactions with information access systems. Simulating user behavior is crucial for evaluating the effectiveness and efficiency of retrieval algorithms, user interfaces, and personalized recommendation systems. 
 
 We anticipate a **highly interactive** and **engaging**, **full-day** workshop to foster collaborations and bring the community together. 
 We are keen to hear different views and opinions on the current and future directions for simulations in information access systems. 
@@ -24,10 +15,59 @@ Therefore, two keynotes, a panel discussion with selected participants, lightnin
 
 To enable interaction with a broader set of participants, we offer a limited hybrid participation in addition to onsite attendance via Zoom.
 
-- **Welcome.** We welcome the onsite and online participants and set the stage for a day of interaction.
 - **Keynotes.** We intend to have two keynotes representing viewpoints from industry and academia.
 - **Lightning talks.** We allocate short slots (3-5 minute talks) for accepted opinion pieces and encore talks from a selection of different viewpoints for onsite presentation. 
 - **Panel discussion.** We will moderate a panel with invited panelists from a diverse set of backgrounds championing different subfields and views.
+
+### Keynote Speakers
+
+We are delighted to announce that the workshop will feature distinguished keynote speakers who are experts in the field of simulating user behavior for information access systems. (TBA)
+
+### Tentative Schedule
+
+## Call for Participation
+
+We welcome contributions of __original perspectives or already published work__ to support exchange as lightning talks (extended abstracts) given by in-person attendees. A lightning talk might present an unusual perspective, rough sketch, fresh idea, research vision, or understudied problem. It can explore controversial topics or discuss exploratory solutions but generally sparks a discussion at the workshop. Works that are already published are highly welcome in this format. 
+
+### Topics of Interest
+We invite submissions on a wide range of topics related to simulating users for information access systems, including but not limited to:
+
+Methods for simulating user actions/behavior
+- Synthetic queries (and their relations to real queries)
+- Simulating browsing and clicking behavior
+- Simulating stopping behavior
+- Simulating rich search interactions
+- Interactions with conversational agents
+
+Modeling information needs, knowledge, and cognitive states
+- Connecting information needs and the information hole (ASK)
+- Modeling the connection between knowledge and information need
+- Knowledge states beyond a vocabulary
+
+Modeling contexts and personas
+- Users' contexts - what to model?
+- Personas and simulation
+- First-time usage vs. learning processes
+
+Building user simulators
+- Toolkits and resources
+- NLP methods and LLMs
+
+Validation of user simulators
+- Requirements for conversational simulators
+
+### Submission Details
+
+For a lightning talk, an extended abstract of up to two pages (incl. references, ACM double column) should be submitted, which will be editorially reviewed. Presented talks will be featured in a SIGIR Forum publication for which presenters will be invited as co-authors.
+
+The review process is single-blind. Submissions should be submitted electronically via EasyChair: https://easychair.org/conferences/?conf=sim4ia-sigir2024  
+
+## Dates
+
+- Extended abstract submission: May 9, 2024
+- Extended abstract acceptance notification: May 23, 2024
+- Workshop day: July 18, 2024
+
 
 ### Tentative Schedule
 
