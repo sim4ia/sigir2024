@@ -4,10 +4,13 @@ title: SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA)
 #description: Bookmark this to keep an eye on my project updates!
 
 navbar-links:
-  About: "about"
-  CfP: "#cfp"
-  Dates: "dates"
-  Organizers: "organizers"
+  About: "#about"
+  Structure: "#structure"
+  Call for Participation: 
+    - Topics of Interest: "#topics-of-interest"
+    - Submission Guidelines: "#submission-guidelines"
+  Dates: "#dates"
+  Organizers: "#organizers"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
