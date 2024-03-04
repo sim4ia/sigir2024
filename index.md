@@ -1,5 +1,5 @@
 ---
-title: Sim4IA @ SIGIR 2024
+title: "Sim4IA @ SIGIR 2024"
 cover-img: "/img/cover.jpeg"
 ---
 
@@ -71,7 +71,7 @@ Validation of user simulators
 
 For a lightning talk, an extended abstract of up to two pages (incl. references, ACM double column) should be submitted, which will be editorially reviewed. Presented talks will be featured in a SIGIR Forum publication for which presenters will be invited as co-authors.
 
-The review process is single-blind. Submissions should be submitted electronically via EasyChair: (https://easychair.org/conferences/?conf=sim4ia-sigir2024)
+The review process is single-blind. Submissions should be submitted electronically via EasyChair: [https://easychair.org/conferences/?conf=sim4ia-sigir2024](https://easychair.org/conferences/?conf=sim4ia-sigir2024)
 
 ## Dates
 
