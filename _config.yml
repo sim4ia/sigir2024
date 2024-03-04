@@ -2,3 +2,27 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA)
 #description: Bookmark this to keep an eye on my project updates!
+
+navbar-links:
+  About: "about"
+  Submission details: "submission"
+  Dates: "dates"
+  Organizers: "organizers"
+
+# Add the website title to the title of every page
+title-on-all-pages: true
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
