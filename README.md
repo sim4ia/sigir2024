@@ -1,6 +1,6 @@
 ---
 title: Simulation for Information Access
-cover-img:"cover.jpeg"
+cover-img: "/img/cover.jpeg"
 ---
 
 ## About
