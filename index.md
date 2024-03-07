@@ -1,14 +1,18 @@
 ---
 title: "Sim4IA"
-subtitle: "SIGIR 2024 Workshop on Simulations for Information Access"
+subtitle: "SIGIR 2024 Workshop on Simulations for Information Access - July 18, 2024"
 cover-img: "/img/cover.jpeg"
 ---
+
+## tl;dr
+
+Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2024](https://sigir-2024.github.io/) in Washington, D.C. (onsite, limited hybrid participation) - Submit your lightning talks / extended abstracts to [EasyChair](https://easychair.org/conferences/?conf=sim4ia-sigir2024) until **May 9, 2024 (AoE)**
 
 ## About
 
 Simulations in various forms have been used to evaluate information access systems, like search engines, recommender systems, or conversational agents. In the form of the Cranfield paradigm, a simulation setup is well-known in the IR community, but user simulations have recently gained interest. While user simulations help to reduce the complexity of evaluation experiments and help with reproducibility, they can also contribute to a better understanding of users. Building on recent developments in methods and toolkits, the **SIGIR 2024 Workshop on Simulations for Information Access** (Sim4IA @ SIGIR 2024) aims to bring together researchers and practitioners to form an interactive and engaging forum for discussions on the future perspectives of the field. An additional aim is to plan an upcoming TREC/CLEF campaign.
 
-The Sim4IA workshop will be co-located with the [47th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir-2024.github.io/) that will be held from 14-18 July, 2024 in Washington D.C., USA.
+The Sim4IA workshop will be co-located with the [47th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir-2024.github.io/) on **July 18, 2024** in Washington D.C., USA.
 
 ### Objective
 This workshop aims to bring together experts and enthusiasts from academia and industry to delve into the challenges, methodologies, and applications of simulating user interactions with information access systems. Simulating user behavior is crucial for evaluating the effectiveness and efficiency of retrieval algorithms, user interfaces, and personalized recommendation systems. 
@@ -44,28 +48,28 @@ We welcome contributions of __original perspectives or already published work__ 
 ### Topics of Interest
 We invite submissions on a wide range of topics related to simulating users for information access systems, including but not limited to:
 
-Methods for simulating user actions/behavior
+**Methods for simulating user actions/behavior**
 - Synthetic queries (and their relations to real queries)
 - Simulating browsing and clicking behavior
 - Simulating stopping behavior
 - Simulating rich search interactions
 - Interactions with conversational agents
 
-Modeling information needs, knowledge, and cognitive states
+**Modeling information needs, knowledge, and cognitive states**
 - Connecting information needs and the information hole (ASK)
 - Modeling the connection between knowledge and information need
 - Knowledge states beyond a vocabulary
 
-Modeling contexts and personas
+**Modeling contexts and personas**
 - Users' contexts - what to model?
 - Personas and simulation
 - First-time usage vs. learning processes
 
-Building user simulators
+**Building user simulators**
 - Toolkits and resources
 - NLP methods and LLMs
 
-Validation of user simulators
+**Validation of user simulators**
 - Requirements for conversational simulators
 
 ### Submission Details
@@ -76,9 +80,9 @@ The review process is single-blind. Submissions should be submitted electronical
 
 ## Dates
 
-- Extended abstract submission: May 9, 2024
-- Extended abstract acceptance notification: May 23, 2024
-- Workshop day: July 18, 2024
+- Extended abstract submission: **May 9, 2024 (AoE)**
+- Extended abstract acceptance notification: **May 23, 2024**
+- Workshop day: **July 18, 2024**
 
 ## Organizers
 
