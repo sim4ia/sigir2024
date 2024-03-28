@@ -8,6 +8,10 @@ cover-img: "/img/cover.jpeg"
 
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2024](https://sigir-2024.github.io/) in Washington, D.C. (onsite, limited hybrid participation) - Submit your lightning talks / extended abstracts to [EasyChair](https://easychair.org/conferences/?conf=sim4ia-sigir2024) until **May 9, 2024 (AoE)**
 
+## Updates
+
+- We are happy to announce that [Leif Azzopardi](https://www.strath.ac.uk/staff/azzopardileifdr/) (University of Strathclyde) will give our first keynote. He is one of the co-organizers of the 2010 SIGIR Workshop on the simulation of interaction and one of the authors of the original SIMIIR framework.
+
 ## About
 
 Simulations in various forms have been used to evaluate information access systems, like search engines, recommender systems, or conversational agents. In the form of the Cranfield paradigm, a simulation setup is well-known in the IR community, but user simulations have recently gained interest. While user simulations help to reduce the complexity of evaluation experiments and help with reproducibility, they can also contribute to a better understanding of users. Building on recent developments in methods and toolkits, the **SIGIR 2024 Workshop on Simulations for Information Access** (Sim4IA @ SIGIR 2024) aims to bring together researchers and practitioners to form an interactive and engaging forum for discussions on the future perspectives of the field. An additional aim is to plan an upcoming TREC/CLEF campaign.
