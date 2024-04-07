@@ -10,7 +10,9 @@ Interactive and engaging Workshop on Simulations for Information Access at [SIGI
 
 ## Updates
 
-- We are happy to announce that [Leif Azzopardi](https://www.strath.ac.uk/staff/azzopardileifdr/) (University of Strathclyde) will give our first keynote. He is one of the co-organizers of the 2010 SIGIR Workshop on the simulation of interaction and one of the authors of the original SIMIIR framework.
+- [Registration information](#registration) included.
+- We are happy to announce that [Leif Azzopardi](https://www.strath.ac.uk/staff/azzopardileifdr/) (University of Strathclyde) and [Gabriella Pasi](https://ikr3.disco.unimib.it/people/gabriella-pasi/) (University of Milano-Bicocca) will give our two keynotes. 
+<!-- He is one of the co-organizers of the 2010 SIGIR Workshop on the simulation of interaction and one of the authors of the original SIMIIR framework.-->
 
 ## About
 
@@ -87,6 +89,19 @@ The review process is single-blind. Submissions should be submitted electronical
 - Extended abstract submission: **May 9, 2024 (AoE)**
 - Extended abstract acceptance notification: **May 23, 2024**
 - Workshop day: **July 18, 2024**
+
+## Registration
+
+The workshop will be in-person. We offer limited hybrid options, but every participant must register via the official SIGIR registration portal (additional [venue information](https://sigir-2024.github.io/attend.html) and [SIGIR author information](https://sigir-2024.github.io/attend_info4authors.html) available)
+
+Please register via the official [SIGIR Registration site](https://web.cvent.com/event/9ec6e9f1-660b-41fa-b25d-6a33c4ccda2d/summary).
+
+The workshop day fee is 200 USD (early registration, please check for [later registration fees](https://sigir-2024.github.io/images/registration_rates.png)).
+
+- Early registration deadline: May 15, 2024.
+- Standard registration deadline: June 15, 2024.
+
+We look forward to meeting you in D.C.!
 
 ## Organizers
 
