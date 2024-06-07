@@ -10,6 +10,7 @@ Interactive and engaging Workshop on Simulations for Information Access at [SIGI
 
 ## Updates
 
+- Information on 1st keynote and a list of 1st round of accepted lightning talks are included below.
 - **1st submission round ended** - Thank you for your timely commitment - We will review everything submitted on time and notify all authors ASAP, as originally announced. For those of you who were struggling with the deadline or would like to present a lightning talk with very recent results, etc. - The [submission system](https://easychair.org/conferences/?conf=sim4ia-sigir2024) is still open, and as long as there are free slots remaining, you can continue to submit an extended abstract. This second round of submissions will end 4 July latest - or whenever all available slots are filled.
 - [Registration information](#registration) included.
 - We are happy to announce that [Leif Azzopardi](https://www.strath.ac.uk/staff/azzopardileifdr/) (University of Strathclyde) and [Gabriella Pasi](https://ikr3.disco.unimib.it/people/gabriella-pasi/) (University of Milano-Bicocca) will give our two keynotes. 
@@ -26,20 +27,21 @@ This workshop aims to bring together experts and enthusiasts from academia and i
 
 We anticipate a **highly interactive** and **engaging**, **full-day** workshop to foster collaborations and bring the community together. 
 We are keen to hear different views and opinions on the current and future directions for simulations in information access systems. 
-Therefore, we are planning to offer two keynotes, a panel discussion with selected participants, lightning talks, and guided breakout sessions:
+Therefore, we are planning to offer two keynotes, a panel discussion with selected participants, lightning talks (~5 minutes), and guided breakout sessions.
 
+<!--
 - **Keynotes.** We intend to have two keynotes representing viewpoints from industry and academia.
 - **Lightning talks.** We allocate short slots (3-5 minute talks) for accepted opinion pieces and encore talks from a selection of different viewpoints for onsite presentation. 
 - **Panel discussion.** We will moderate a panel with invited panelists from a diverse set of backgrounds championing different subfields and views.
 - **Breakout group discussions.** The core of this workshop is to initiate a discussion among the participants. We will guide the breakout discussions.
-
+-->
 To enable interaction with a broader set of participants, we offer limited hybrid participation in addition to onsite attendance via Zoom.
 
 ### Keynote 
 
 #### Gabriella Pasi - Modeling users’ preferences and context: which information and how?
 
-<img src="img/gabriella.jpg" width="100" align="left" />
+<img src="img/gabriella.jpg" width="100" align="left" hspace="10" />
 Gabriella Pasi is Professor at the Department of Informatics, Systems, and Communication of the University of Milano-Bicocca, where she leads the [Information and Knowledge Representation, Retrieval, and Reasoning (IKR3) research Lab](https://ikr3.disco.unimib.it/). Her main research interests include user modelling and personalization in systems for information access, and personal and contextual LLMs. Her research is supported by numerous grants; among her recent recognitions is the 2023 Outstanding Research Contributions Award of the Web Intelligence Consortium.
 
 ### Accepted presentations
