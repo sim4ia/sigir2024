@@ -6,14 +6,14 @@ cover-img: "/img/cover.jpeg"
 
 ## tl;dr
 
-Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2024](https://sigir-2024.github.io/) in Washington, D.C. (onsite, limited hybrid participation) - **1st submission round ended** - Some slot for lightning talks / extended abstracts still available - Submit to [EasyChair](https://easychair.org/conferences/?conf=sim4ia-sigir2024) until July 4 latest, or whenever all available slots are filled.**
+Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2024](https://sigir-2024.github.io/) in Washington, D.C. (onsite, limited hybrid participation) - **1st submission round ended** - Some slot for lightning talks / extended abstracts still available - Submit to [EasyChair](https://easychair.org/conferences/?conf=sim4ia-sigir2024) until July 4 latest, or whenever all available slots are filled.
 
 ## Updates
 
 - Information on 1st keynote and a list of 1st round of accepted lightning talks are included below.
 - **1st submission round ended** - Thank you for your timely commitment - We will review everything submitted on time and notify all authors ASAP, as originally announced. For those of you who were struggling with the deadline or would like to present a lightning talk with very recent results, etc. - The [submission system](https://easychair.org/conferences/?conf=sim4ia-sigir2024) is still open, and as long as there are free slots remaining, you can continue to submit an extended abstract. This second round of submissions will end 4 July latest - or whenever all available slots are filled.
 - [Registration information](#registration) included.
-- We are happy to announce that [Leif Azzopardi](https://www.strath.ac.uk/staff/azzopardileifdr/) (University of Strathclyde) and [Gabriella Pasi](https://ikr3.disco.unimib.it/people/gabriella-pasi/) (University of Milano-Bicocca) will give our two keynotes. 
+- We are happy to announce that ~~[Leif Azzopardi](https://www.strath.ac.uk/staff/azzopardileifdr/) (University of Strathclyde) and~~ [Gabriella Pasi](https://ikr3.disco.unimib.it/people/gabriella-pasi/) (University of Milano-Bicocca) will give our two keynotes. 
 <!-- He is one of the co-organizers of the 2010 SIGIR Workshop on the simulation of interaction and one of the authors of the original SIMIIR framework.-->
 
 ## About
