@@ -35,6 +35,24 @@ Therefore, we are planning to offer two keynotes, a panel discussion with select
 
 To enable interaction with a broader set of participants, we offer limited hybrid participation in addition to onsite attendance via Zoom.
 
+### Keynote 
+
+#### Gabriella Pasi - Modeling users’ preferences and context: which information and how?
+
+<img src="img/gabriella.jpg" width="100" align="left" />
+Gabriella Pasi is Professor at the Department of Informatics, Systems, and Communication of the University of Milano-Bicocca, where she leads the [Information and Knowledge Representation, Retrieval, and Reasoning (IKR3) research Lab](https://ikr3.disco.unimib.it/). Her main research interests include user modelling and personalization in systems for information access, and personal and contextual LLMs. Her research is supported by numerous grants; among her recent recognitions is the 2023 Outstanding Research Contributions Award of the Web Intelligence Consortium.
+
+### Accepted presentations
+
+Authors | Title
+---|---
+Saber Zerhoudi and Michael Granitzer | DuSS: Exploring the Synergy Between Conversational Search and Traditional SERPs in Information Retrieval
+Johannes Kiesel, Marcel Gohsen, Nailia Mirzakhmedova, Matthias Hagen and Benno Stein	| Extended Abstract: Simulating Follow-up Questions in Conversational Search	
+Vahid Sadiri Javadi and Lucie Flek | OpinionConv: A Framework for Simulating Opinionated Conversations for Product Search
+Xi Wang, Procheta Sen, Ruizhe Li and Emine Yilmaz	| Enhancing Conversational Techniques: The Role of Synthetic Dialogue Generation
+Saber Zerhoudi and Michael Granitzer | Beyond Conventional Metrics: Assessing User Simulators in Information Retrieval
+Erhan Zhang, Xingzhu Wang, Peiyuan Gong, Yankai Lin and Jiaxin Mao |	USiAgent: Large Language Models for Simulating Search Users
+
 ### Tentative Schedule
 
 | Time         | Agenda                                       |
@@ -88,7 +106,7 @@ The review process is single-blind. Submissions should be submitted electronical
 ## Dates
 
 - 1st round of extended abstract submission: ~~**May 9, 2024 (AoE)**~~ 
-- Extended abstract acceptance notification: **May 23, 2024**
+- Extended abstract acceptance notification: ~~**May 23, 2024**~~
 - 2nd round of extended abstract submission **July 4, 2024 (AoE)** or whenever all available slots are filled
 - Workshop day: **July 18, 2024**
 
