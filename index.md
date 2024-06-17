@@ -54,6 +54,7 @@ Vahid Sadiri Javadi and Lucie Flek | OpinionConv: A Framework for Simulating Opi
 Xi Wang, Procheta Sen, Ruizhe Li and Emine Yilmaz	| Enhancing Conversational Techniques: The Role of Synthetic Dialogue Generation
 Saber Zerhoudi and Michael Granitzer | Beyond Conventional Metrics: Assessing User Simulators in Information Retrieval
 Erhan Zhang, Xingzhu Wang, Peiyuan Gong, Yankai Lin and Jiaxin Mao |	USiAgent: Large Language Models for Simulating Search Users
+Chih-Wei Hsu, Martin Mladenov, Ofer Meshi, James Pine, Hubert Pham, Shane Li, Xujian Liang, Anton Polishko, Li Yang, Ben Scheetz and Craig Boutilier | Minimizing Live Experiments in Recommender Systems: User Simulation to Evaluate Preference Elicitation Policies
 
 ### Tentative Schedule
 
