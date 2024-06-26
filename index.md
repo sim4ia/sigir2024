@@ -58,16 +58,20 @@ Chih-Wei Hsu, Martin Mladenov, Ofer Meshi, James Pine, Hubert Pham, Shane Li, Xu
 
 ### Tentative Schedule
 
-| Time         | Agenda                                       |
-|--------------|----------------------------------------------|
-| 9:00-9:30   | Welcome                                      |
-| 9:30-10:00  | Keynote 1                                    |
-| 10:00-10:30 | Lightning talks                              |
+| Time        | Agenda                                       |
+|-------------|----------------------------------------------|
+| 9:00-9:15   | Welcome                                      |
+| 9:15-10:00  | Keynote 1: Gabriella Pasi                    |
+| 10:00-10:30 | Lightning talks (4)                          |
+| 10:30-11:00 | Coffee break                                 |
 | 11:00-12:00 | Panel discussion                             |
-| 12:00-12:30 | Lightning talks                              |
-| 13:30-14:00 | Keynote 2                                    |
-| 14:00-15:30 | Breakout group discussions                   |
-| 16:00-17:00 | Reports of the group discussions and closing |
+| 12:00-12:30 | Lightning talks (4)                          |
+| 12:30-13:30 | Lunch break                                  |
+| 13:30-14:15 | Keynote 2: Martin Mladenov                   |
+| 14:15-15:00 | Breakout group discussions I                 |
+| 15:00-15:30 | Coffee break                                 |
+| 15:30-16:15 | Breakout group discussions II                |
+| 16:15-17:00 | Reports of the group discussions and closing |
 
 ## Call for Participation
 
