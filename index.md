@@ -40,14 +40,21 @@ To enable interaction with a broader set of participants, we offer limited hybri
 
 ### Keynotes
 
-#### Gabriella Pasi - Modeling users’ preferences and context: which information and how?
 
-<img src="img/gabriella.jpg" width="150" align="left" hspace="10" />
-Gabriella Pasi is Professor at the Department of Informatics, Systems, and Communication of the University of Milano-Bicocca, where she leads the [Information and Knowledge Representation, Retrieval, and Reasoning (IKR3) research Lab](https://ikr3.disco.unimib.it/). Her main research interests include user modelling and personalization in systems for information access, and personal and contextual LLMs. Her research is supported by numerous grants; among her recent recognitions is the 2023 Outstanding Research Contributions Award of the Web Intelligence Consortium.
+#### Gabriella Pasi - Modeling users’ preferences and context: which information and how?
+<img src="img/gabriella.jpg" width="150" style="float:left" hspace="10" /> Gabriella Pasi is Professor at the Department of Informatics, Systems, and Communication of the University of Milano-Bicocca, where she leads the [Information and Knowledge Representation, Retrieval, and Reasoning (IKR3) research Lab](https://ikr3.disco.unimib.it/). Her main research interests include user modelling and personalization in systems for information access, and personal and contextual LLMs. Her research is supported by numerous grants; among her recent recognitions is the 2023 Outstanding Research Contributions Award of the Web Intelligence Consortium.
 
 #### Martin Mladenov - User simulation as an engineering tool: the road ahead (with RecSim NG)
-<img src="img/martin.jpg" width="150" align="left" hspace="10" />
-Martin Mladenov is a senior research scientist at Google Research. His research is focused on the modeling, measurement, and steering of recommender ecosystems from a methodological, behavioral, and social choice perspective. He is one of the leads of the RecSim and RecSim NG projects.  
+<img src="img/martin.jpg" width="150" style="float:left" hspace="10" /> Martin Mladenov is a senior research scientist at Google Research. His research is focused on the modeling, measurement, and steering of recommender ecosystems from a methodological, behavioral, and social choice perspective. He is one of the leads of the RecSim and RecSim NG projects.  
+
+### Panel
+
+- [Johanne Trippas](https://www.johannetrippas.com/), RMIT University
+- [ChengXiang Zhai](https://czhai.cs.illinois.edu/), University of Illinois at Urbana-Champaign
+- [Gabriella Pasi](https://ikr3.disco.unimib.it/), University of Milano-Bicocca
+- [Martin Mladenov](https://scholar.google.de/citations?user=Gc65LRwAAAAJ&hl=en), Google
+
+The panel will be moderated by Norbert Fuhr.
 
 ### Accepted presentations
 
@@ -67,10 +74,10 @@ Chih-Wei Hsu, Martin Mladenov, Ofer Meshi, James Pine, Hubert Pham, Shane Li, Xu
 |-------------|----------------------------------------------|
 | 9:00-9:15   | Welcome                                      |
 | 9:15-10:00  | Keynote 1: Gabriella Pasi                    |
-| 10:00-10:30 | Lightning talks (4)                          |
+| 10:00-10:30 | Lightning talks (5 minutes each)             |
 | 10:30-11:00 | Coffee break                                 |
 | 11:00-12:00 | Panel discussion                             |
-| 12:00-12:30 | Lightning talks (4)                          |
+| 12:00-12:30 | Lightning talks (5 minutes each)             |
 | 12:30-13:30 | Lunch break                                  |
 | 13:30-14:15 | Keynote 2: Martin Mladenov                   |
 | 14:15-15:00 | Breakout group discussions I                 |
@@ -128,7 +135,7 @@ The workshop will be in-person. We offer limited hybrid options, but every parti
 
 Please register via the official [SIGIR Registration site](https://web.cvent.com/event/9ec6e9f1-660b-41fa-b25d-6a33c4ccda2d/summary).
 
-The workshop day fee is 200 USD (early registration, please check for [later registration fees](https://sigir-2024.github.io/images/registration_rates.png)).
+The workshop day fee is 200 USD (early registration; please check for [later registration fees](https://sigir-2024.github.io/images/registration_rates.png)).
 
 - Early registration deadline: May 15, 2024.
 - Standard registration deadline: June 15, 2024.
@@ -141,4 +148,4 @@ We look forward to meeting you in D.C.!
 * [Christin Kreutz](https://ir.web.th-koeln.de/people/christin-kreutz/), TH Köln – University of Applied Sciences, Germany
 * [Krisztian Balog](https://krisztianbalog.com/), University of Stavanger, Norway
 * [Timo Breuer](https://ir.web.th-koeln.de/people/timo-breuer/), TH Köln – University of Applied Sciences, Germany
-* Norbert Fuhr, University of Duisburg-Essen, Germany
+* [Norbert Fuhr](https://en.wikipedia.org/wiki/Norbert_Fuhr), University of Duisburg-Essen, Germany
