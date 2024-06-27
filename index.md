@@ -42,10 +42,10 @@ To enable interaction with a broader set of participants, we offer limited hybri
 
 
 #### Gabriella Pasi - Modeling users’ preferences and context: which information and how?
-<img src="img/gabriella.jpg" width="150" style="float:left" hspace="10" /> Gabriella Pasi is Professor at the Department of Informatics, Systems, and Communication of the University of Milano-Bicocca, where she leads the [Information and Knowledge Representation, Retrieval, and Reasoning (IKR3) research Lab](https://ikr3.disco.unimib.it/). Her main research interests include user modelling and personalization in systems for information access, and personal and contextual LLMs. Her research is supported by numerous grants; among her recent recognitions is the 2023 Outstanding Research Contributions Award of the Web Intelligence Consortium.
+<img src="img/gabriella.jpg" width="150" style="float:right" hspace="10" /> Gabriella Pasi is Professor at the Department of Informatics, Systems, and Communication of the University of Milano-Bicocca, where she leads the [Information and Knowledge Representation, Retrieval, and Reasoning (IKR3) research Lab](https://ikr3.disco.unimib.it/). Her main research interests include user modelling and personalization in systems for information access, and personal and contextual LLMs. Her research is supported by numerous grants; among her recent recognitions is the 2023 Outstanding Research Contributions Award of the Web Intelligence Consortium.
 
 #### Martin Mladenov - User simulation as an engineering tool: the road ahead (with RecSim NG)
-<img src="img/martin.jpg" width="150" style="float:left" hspace="10" /> Martin Mladenov is a senior research scientist at Google Research. His research is focused on the modeling, measurement, and steering of recommender ecosystems from a methodological, behavioral, and social choice perspective. He is one of the leads of the RecSim and RecSim NG projects.  
+<img src="img/martin.jpg" width="150" style="float:right" hspace="10" /> Martin Mladenov is a senior research scientist at Google Research. His research is focused on the modeling, measurement, and steering of recommender ecosystems from a methodological, behavioral, and social choice perspective. He is one of the leads of the RecSim and RecSim NG projects.  
 
 ### Panel
 
