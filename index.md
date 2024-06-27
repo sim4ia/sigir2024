@@ -10,6 +10,7 @@ Interactive and engaging Workshop on Simulations for Information Access at [SIGI
 
 ## Updates
 
+- Our second keynote by Martin Mladenov was confirmed, and we updated information on the panel and the overall schedule.
 - Information on 1st keynote and a list of 1st round of accepted lightning talks are included below.
 - **1st submission round ended** - Thank you for your timely commitment - We will review everything submitted on time and notify all authors ASAP, as originally announced. For those of you who were struggling with the deadline or would like to present a lightning talk with very recent results, etc. - The [submission system](https://easychair.org/conferences/?conf=sim4ia-sigir2024) is still open, and as long as there are free slots remaining, you can continue to submit an extended abstract. This second round of submissions will end 4 July latest - or whenever all available slots are filled.
 - [Registration information](#registration) included.
@@ -37,12 +38,16 @@ Therefore, we are planning to offer two keynotes, a panel discussion with select
 -->
 To enable interaction with a broader set of participants, we offer limited hybrid participation in addition to onsite attendance via Zoom.
 
-### Keynote 
+### Keynotes
 
 #### Gabriella Pasi - Modeling users’ preferences and context: which information and how?
 
-<img src="img/gabriella.jpg" width="200" align="left" hspace="10" />
+<img src="img/gabriella.jpg" width="150" align="left" hspace="10" />
 Gabriella Pasi is Professor at the Department of Informatics, Systems, and Communication of the University of Milano-Bicocca, where she leads the [Information and Knowledge Representation, Retrieval, and Reasoning (IKR3) research Lab](https://ikr3.disco.unimib.it/). Her main research interests include user modelling and personalization in systems for information access, and personal and contextual LLMs. Her research is supported by numerous grants; among her recent recognitions is the 2023 Outstanding Research Contributions Award of the Web Intelligence Consortium.
+
+#### Martin Mladenov - User simulation as an engineering tool: the road ahead (with RecSim NG)
+<img src="img/martin.jpg" width="150" align="left" hspace="10" />
+Martin Mladenov is a senior research scientist at Google Research. His research is focused on the modeling, measurement, and steering of recommender ecosystems from a methodological, behavioral, and social choice perspective. He is one of the leads of the RecSim and RecSim NG projects.  
 
 ### Accepted presentations
 
