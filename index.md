@@ -52,7 +52,7 @@ To enable interaction with a broader set of participants, we offer limited hybri
 - [Johanne Trippas](https://www.johannetrippas.com/), RMIT University
 - [ChengXiang Zhai](https://czhai.cs.illinois.edu/), University of Illinois at Urbana-Champaign
 - [Gabriella Pasi](https://ikr3.disco.unimib.it/), University of Milano-Bicocca
-<!-- - [Martin Mladenov](https://scholar.google.de/citations?user=Gc65LRwAAAAJ&hl=en), Google-->
+- [Martin Mladenov](https://scholar.google.de/citations?user=Gc65LRwAAAAJ&hl=en), Google
 
 The panel will be moderated by Norbert Fuhr.
 
