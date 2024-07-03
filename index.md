@@ -10,7 +10,8 @@ Interactive and engaging Workshop on Simulations for Information Access at [SIGI
 
 ## Updates
 
-- Our second keynote by Martin Mladenov was confirmed, and we updated information on the panel and the overall schedule.
+- Join the Sim4IA workshop at the [ACM SIGIR Slack](http://acmsigir.slack.com) on #sigir2024-sim4ai-workshop! Contact the organizers if you need an invite.
+- Our second keynote by [Martin Mladenov](https://scholar.google.de/citations?user=Gc65LRwAAAAJ&hl=en) was confirmed, and we updated information on the panel and the overall schedule.
 - Information on 1st keynote and a list of 1st round of accepted lightning talks are included below.
 - **1st submission round ended** - Thank you for your timely commitment - We will review everything submitted on time and notify all authors ASAP, as originally announced. For those of you who were struggling with the deadline or would like to present a lightning talk with very recent results, etc. - The [submission system](https://easychair.org/conferences/?conf=sim4ia-sigir2024) is still open, and as long as there are free slots remaining, you can continue to submit an extended abstract. This second round of submissions will end 4 July latest - or whenever all available slots are filled.
 - [Registration information](#registration) included.
@@ -21,7 +22,7 @@ Interactive and engaging Workshop on Simulations for Information Access at [SIGI
 
 Simulations in various forms have been used to evaluate information access systems, like search engines, recommender systems, or conversational agents. In the form of the Cranfield paradigm, a simulation setup is well-known in the IR community, but user simulations have recently gained interest. While user simulations help to reduce the complexity of evaluation experiments and help with reproducibility, they can also contribute to a better understanding of users. Building on recent developments in methods and toolkits, the **SIGIR 2024 Workshop on Simulations for Information Access** (Sim4IA @ SIGIR 2024) aims to bring together researchers and practitioners to form an interactive and engaging forum for discussions on the future perspectives of the field. An additional aim is to plan an upcoming TREC/CLEF campaign.
 
-The Sim4IA workshop will be co-located with the [47th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir-2024.github.io/) on **July 18, 2024** in Washington D.C., USA.
+The Sim4IA workshop will be co-located with the [47th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir-2024.github.io/) on **July 18, 2024** in Washington D.C., USA. 
 
 ### Objective
 This workshop aims to bring together experts and enthusiasts from academia and industry to delve into the challenges, methodologies, and applications of simulating user interactions with information access systems. Simulating user behavior is crucial for evaluating the effectiveness and efficiency of retrieval algorithms, user interfaces, and personalized recommendation systems. 
@@ -36,10 +37,11 @@ Therefore, we are planning to offer two keynotes, a panel discussion with select
 - **Panel discussion.** We will moderate a panel with invited panelists from a diverse set of backgrounds championing different subfields and views.
 - **Breakout group discussions.** The core of this workshop is to initiate a discussion among the participants. We will guide the breakout discussions.
 -->
-To enable interaction with a broader set of participants, we offer limited hybrid participation in addition to onsite attendance via Zoom.
+
+### Hybrid setting - Zoom and Slack
+To enable interaction with a broader set of participants, we offer limited hybrid participation in addition to onsite attendance via Zoom and Slack. Zoom links will be provided through the ACM to all registered participants. Join the Sim4IA workshop at the [ACM SIGIR Slack](http://acmsigir.slack.com) on #sigir2024-sim4ai-workshop! Contact the organizers if you need an invite.
 
 ### Keynotes
-
 
 #### Gabriella Pasi - Modeling users’ preferences and context: which information and how?
 <img src="img/gabriella.jpg" width="150" style="float:right" hspace="10" /> Gabriella Pasi is Professor at the Department of Informatics, Systems, and Communication of the University of Milano-Bicocca, where she leads the [Information and Knowledge Representation, Retrieval, and Reasoning (IKR3) research Lab](https://ikr3.disco.unimib.it/). Her main research interests include user modelling and personalization in systems for information access, and personal and contextual LLMs. Her research is supported by numerous grants; among her recent recognitions is the 2023 Outstanding Research Contributions Award of the Web Intelligence Consortium.
