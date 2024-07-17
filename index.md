@@ -60,17 +60,17 @@ The panel will be moderated by Norbert Fuhr.
 
 ### Accepted presentations
 
-Authors | Title
----|---
-Saber Zerhoudi and Michael Granitzer | DuSS: Exploring the Synergy Between Conversational Search and Traditional SERPs in Information Retrieval
-Johannes Kiesel, Marcel Gohsen, Nailia Mirzakhmedova, Matthias Hagen and Benno Stein	| Extended Abstract: Simulating Follow-up Questions in Conversational Search	
-Vahid Sadiri Javadi and Lucie Flek | OpinionConv: A Framework for Simulating Opinionated Conversations for Product Search
-Xi Wang, Procheta Sen, Ruizhe Li and Emine Yilmaz	| Enhancing Conversational Techniques: The Role of Synthetic Dialogue Generation
-Saber Zerhoudi and Michael Granitzer | Beyond Conventional Metrics: Assessing User Simulators in Information Retrieval
-Jüri Keller, Björn Engelmann, Christin Kreutz and Philipp Schaer | Towards Information Nugget-Based Test Collections for Evaluating Information Access Systems
-Erhan Zhang, Xingzhu Wang, Peiyuan Gong, Yankai Lin and Jiaxin Mao |	USimAgent: Large Language Models for Simulating Search Users
-Chih-Wei Hsu, Martin Mladenov, Ofer Meshi, James Pine, Hubert Pham, Shane Li, Xujian Liang, Anton Polishko, Li Yang, Ben Scheetz and Craig Boutilier | Minimizing Live Experiments in Recommender Systems: User Simulation to Evaluate Preference Elicitation Policies
-Nolwenn Bernard and Krisztian Balog | Towards a Formal Characterization of User Simulation Objectives in Conversational Information Access
+ID | Authors | Title
+---|---|---
+1 | Saber Zerhoudi and Michael Granitzer | DuSS: Exploring the Synergy Between Conversational Search and Traditional SERPs in Information Retrieval
+2 | *(remote)* Johannes Kiesel, Marcel Gohsen, Nailia Mirzakhmedova, Matthias Hagen and Benno Stein	| Extended Abstract: Simulating Follow-up Questions in Conversational Search	
+3 | *(remote)* Vahid Sadiri Javadi and Lucie Flek | OpinionConv: A Framework for Simulating Opinionated Conversations for Product Search
+4 | *(remote)* Xi Wang, Procheta Sen, Ruizhe Li and Emine Yilmaz	| Enhancing Conversational Techniques: The Role of Synthetic Dialogue Generation
+5 | Saber Zerhoudi and Michael Granitzer | Beyond Conventional Metrics: Assessing User Simulators in Information Retrieval
+6 | Jüri Keller, Björn Engelmann, Christin Kreutz and Philipp Schaer | Towards Information Nugget-Based Test Collections for Evaluating Information Access Systems
+7 | Erhan Zhang, Xingzhu Wang, Peiyuan Gong, Yankai Lin and Jiaxin Mao |	USimAgent: Large Language Models for Simulating Search Users
+8 | Chih-Wei Hsu, Martin Mladenov, Ofer Meshi, James Pine, Hubert Pham, Shane Li, Xujian Liang, Anton Polishko, Li Yang, Ben Scheetz and Craig Boutilier | Minimizing Live Experiments in Recommender Systems: User Simulation to Evaluate Preference Elicitation Policies
+9 | Nolwenn Bernard and Krisztian Balog | Towards a Formal Characterization of User Simulation Objectives in Conversational Information Access
 
 
 ### Tentative Schedule
@@ -79,10 +79,10 @@ Nolwenn Bernard and Krisztian Balog | Towards a Formal Characterization of User 
 |-------------|----------------------------------------------|
 | 9:00-9:15   | Welcome                                      |
 | 9:15-10:00  | Keynote 1: Gabriella Pasi                    |
-| 10:00-10:30 | Lightning talks (5 minutes each)             |
+| 10:00-10:30 | Lightning talks, talks 1 - 5 (5 minutes each)             |
 | 10:30-11:00 | Coffee break                                 |
 | 11:00-12:00 | Panel discussion                             |
-| 12:00-12:30 | Lightning talks (5 minutes each)             |
+| 12:00-12:30 | Lightning talks, talks 6 - 9 (5 minutes each)             |
 | 12:30-13:30 | Lunch break                                  |
 | 13:30-14:15 | Keynote 2: Martin Mladenov                   |
 | 14:15-15:00 | Breakout group discussions I                 |
