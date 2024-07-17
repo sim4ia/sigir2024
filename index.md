@@ -10,6 +10,7 @@ Interactive and engaging Workshop on Simulations for Information Access at [SIGI
 
 ## Updates
 
+- If you would like to attend the Sim4IA workshop remotely and you are registered for the SIGIR ‘24 Conference or the SIGIR ‘24 Workshop Day please send an email to <ckreutz@acm.org> to receive the Zoom credentials.
 - Join the Sim4IA workshop at the [ACM SIGIR Slack](http://acmsigir.slack.com) on #sigir2024-sim4ai-workshop! Contact the organizers if you need an invite.
 - Our second keynote by [Martin Mladenov](https://scholar.google.de/citations?user=Gc65LRwAAAAJ&hl=en) was confirmed, and we updated information on the panel and the overall schedule.
 - Information on 1st keynote and a list of 1st round of accepted lightning talks are included below.
