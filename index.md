@@ -5,7 +5,7 @@ cover-img: "/img/cover.jpeg"
 ---
 
 <div class="jumbotron">
-  <h2 class="display-4">Workshop report available!</h2>
+  <h3 class="display-4">Workshop report available!</h3>
   <p class="lead">The results of the workshop were summarized in an workshop report for the SIGIR Forum. A <a href="https://arxiv.org/abs/2409.18024">preprint of the Sim4IA 2023 report</a> is available at arXiv.org.</p>  
   <p class="lead">
     <a class="btn btn-primary btn-lg" href="https://arxiv.org/abs/2409.18024" role="button">Access arXiv preprint</a>
