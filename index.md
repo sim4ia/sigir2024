@@ -4,6 +4,14 @@ subtitle: "SIGIR 2024 Workshop on Simulations for Information Access - July 18, 
 cover-img: "/img/cover.jpeg"
 ---
 
+<div class="jumbotron">
+  <h2 class="display-4">Workshop report available!</h2>
+  <p class="lead">The results of the workshop were summarized in an workshop report for the SIGIR Forum. A <a href="https://arxiv.org/abs/2409.18024">preprint of the Sim4IA 2023 report</a> is available at arXiv.org.</p>  
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="https://arxiv.org/abs/2409.18024" role="button">Access arXiv preprint</a>
+  </p>
+</div>
+
 ## tl;dr
 
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2024](https://sigir-2024.github.io/) in Washington, D.C. (onsite, limited hybrid participation) - **1st submission round ended** - Some slot for lightning talks / extended abstracts still available - Submit to [EasyChair](https://easychair.org/conferences/?conf=sim4ia-sigir2024) until July 4 latest, or whenever all available slots are filled.
