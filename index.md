@@ -5,10 +5,13 @@ cover-img: "/img/cover.jpeg"
 ---
 
 <div class="jumbotron">
-  <h2>Workshop report available!</h2>
-  <p>The results of the workshop were summarized in a workshop report for the SIGIR Forum. A <a href="https://arxiv.org/abs/2409.18024">preprint of the Sim4IA 2024 report</a> is available at arXiv.org.</p>  
+  <h2>Lastest updates!</h2>
+  <p>The results of the workshop were summarized in a workshop report for the <a href="https://sigir.org/forum/issues/december-2024/">SIGIR Forum December 2024, Volume 58 Number 2</a>. </p>  
   <p>
-    <a class="btn btn-primary btn-lg" href="https://arxiv.org/abs/2409.18024" role="button">Access arXiv preprint</a>
+    <a class="btn btn-primary btn-lg" href="https://sigir.org/wp-content/uploads/2025/01/p11.pdf" role="button">Access Fulltext</a>
+  </p>
+  <p>
+    We'll host a <a href="sim4ia.org/sigir2025/">second version of the workshop at SIGIR 2025</a>. See you in Padua!
   </p>
 </div>
 
