@@ -6,13 +6,14 @@ cover-img: "/img/cover.jpeg"
 
 <div class="jumbotron">
   <h2>Lastest updates!</h2>
-  <p>The results of the workshop were summarized in a workshop report for the <a href="https://sigir.org/forum/issues/december-2024/">SIGIR Forum December 2024, Volume 58 Number 2</a>. </p>  
+  <ul>
+    <li>The results of the workshop were summarized in a workshop report for the <a href="https://sigir.org/forum/issues/december-2024/">SIGIR Forum December 2024, Volume 58 Number 2</a>. </li>
+  <li>We'll host a <a href="../sigir2025/">second version of the workshop at SIGIR 2025</a>. See you in Padua!</li>
+  </ul>
   <p>
     <a class="btn btn-primary btn-lg" href="https://sigir.org/wp-content/uploads/2025/01/p11.pdf" role="button">Access Fulltext</a>
-  </p>
-  <p>
-    We'll host a <a href="sim4ia.org/sigir2025/">second version of the workshop at SIGIR 2025</a>. See you in Padua!
-  </p>
+    <a class="btn btn-primary btn-lg" href="../sigir2025/" role="button">Sim4IA 2025</a>
+  </p>  
 </div>
 
 ## tl;dr
