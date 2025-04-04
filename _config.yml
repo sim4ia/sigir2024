@@ -10,6 +10,7 @@ navbar-links:
     - Submission Details: "#submission-details"
   Dates: "#dates"
   Organizers: "#organizers"
+  Sim4IA 2025: "../sigir2025/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
