@@ -11,7 +11,7 @@ cover-img: "/img/cover.jpeg"
   <li>We'll host a <a href="../sigir2025/">second version of the workshop at SIGIR 2025</a>. See you in Padua!</li>
   </ul>
   <p>
-    <a class="btn btn-primary btn-lg" href="https://sigir.org/wp-content/uploads/2025/01/p11.pdf" role="button">Access Fulltext</a>
+    <a class="btn btn-primary btn-lg" href="https://sigir.org/wp-content/uploads/2025/01/p11.pdf" role="button">Access Workshop Report</a>
     <a class="btn btn-primary btn-lg" href="../sigir2025/" role="button">Sim4IA 2025</a>
   </p>  
 </div>
